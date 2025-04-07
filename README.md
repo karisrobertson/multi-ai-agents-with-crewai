@@ -1,7 +1,7 @@
 # Practical Multi AI Agents and Advanced Use Cases with crewAI
 Projects from the Multi-AI Agent course by DeepLearning.AI &amp; CrewAI
 
-# Mreate Agents to Research and Write an Article
+# Create Agents to Research and Write an Article
 
 This repo contains hands-on projects from the [DeepLearning.AI x CrewAI](https://www.deeplearning.ai/) course on building Multi-Agent Systems to Research and Wrtie and Article using LLMs.
 
