@@ -21,7 +21,7 @@ This repo contains hands-on projects from the [DeepLearning.AI x CrewAI](https:/
 
 -  📝 Editor refines the article to match brand voice and journalistic best practices
 
-- 
+
 
 I made sure each agent worked sequentially and independently, mimicking a real content workflow (no shortcuts or delegations).
 This is just the beginning—I'm excited to keep building more multi-agent systems and exploring how AI teams can support real-world creative tasks
